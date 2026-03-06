@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-xnetcoin.org-orange?style=flat-square)](https://xnetcoin.org)
 [![Telegram](https://img.shields.io/badge/Telegram-xnethq-blue?style=flat-square&logo=telegram)](https://t.me/xnethq)
 [![Twitter](https://img.shields.io/badge/Twitter-xnethq-black?style=flat-square&logo=x)](https://x.com/xnethq)
-[![Email](https://img.shields.io/badge/Email-info@xnetcoin.org-red?style=flat-square&logo=gmail)](mailto:info@xnetcoin.org)
+[![Email](https://img.shields.io/badge/Email-info@xnetcoin.org-red?style=flat-square&logo=gmail)](mailto:xnetprotocool@gmail.com)
 
 </div>
 
