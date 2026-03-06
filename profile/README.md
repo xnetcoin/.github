@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-xnetcoin.org-orange?style=flat-square)](https://xnetcoin.org)
 [![Telegram](https://img.shields.io/badge/Telegram-xnethq-blue?style=flat-square&logo=telegram)](https://t.me/xnethq)
 [![Twitter](https://img.shields.io/badge/Twitter-xnethq-black?style=flat-square&logo=x)](https://x.com/xnethq)
-[![Email](https://img.shields.io/badge/Email-info@xnetcoin.org-red?style=flat-square&logo=gmail)](mailto:info@xnetcoin.org)
+[![Email](https://img.shields.io/badge/Email-xnetprotocol@gmail.com-red?style=flat-square&logo=gmail)](mailto:xnetprotocol@gmail.com)
 
 </div>
 
@@ -15,9 +15,11 @@
 
 ## What is XNET?
 
-XNET is a Layer 1 blockchain built from scratch on Substrate — not a fork, not a parachain, not a template. One engineer. Twelve months. One codebase.
+XNET is a Layer 1 blockchain built from scratch on Substrate. Not a fork. Not a parachain. Not a template.
 
-The goal was simple: build a chain where developers don't have to choose between EVM and WASM, where zero-knowledge proofs run natively in the runtime, and where the token supply is hard-capped and mathematically predictable — like Bitcoin. That chain is XNET.
+One engineer built this over twelve months — EVM compatibility, WASM smart contracts, a native Groth16 ZK-proof pallet, and Bitcoin-style tokenomics, all in one runtime. The code is public. Everything is auditable.
+
+We're now in the final stretch before testnet. This is where the community starts.
 
 ---
 
@@ -39,7 +41,7 @@ Fee Split       60% Treasury · 15% Dev Grants · 25% Validators
 
 ---
 
-## Current Status
+## Where we are right now
 
 ```
 ✅  Runtime complete — EVM, WASM, NPoS, halving, treasury
@@ -57,24 +59,40 @@ Fee Split       60% Treasury · 15% Dev Grants · 25% Validators
 |---|---|
 | [xnet](https://github.com/xnetcoin/xnet) | Core protocol — runtime, pallets, EVM, WASM, ZKP |
 
-More repositories will be added as the ecosystem grows — explorer, wallet, SDK.
+More repositories coming — explorer, wallet, SDK.
 
 ---
 
-## For Developers
+## This community is just getting started — and you're early
 
-XNET is fully open source. If you're building on XNET — DeFi, NFTs, ZK applications, tooling, infrastructure — you can apply for a grant.
+XNET doesn't have a big team behind it yet. What it has is a working protocol and an open door.
 
-**1,000,000 XNC** from the ecosystem fund and **15% of all transaction fees** are allocated to developer grants. All open source. All on-chain.
+We're looking for people who want to be part of building something from the ground up — developers, researchers, curious people who just want to understand how it works, or anyone with an idea for what could be built on top of XNET.
 
-→ [info@xnetcoin.org](mailto:info@xnetcoin.org)
+**There's no barrier to entry here.** You don't need permission to contribute, ask questions, or share an idea. We read everything.
+
+If you want to build something on XNET — a DeFi protocol, a ZK application, an NFT platform, tooling, infrastructure, or anything else — talk to us before testnet. The formal grant program launches with testnet, but early contributors won't be forgotten. People who show up now and help shape this ecosystem will be recognized when the **1,000,000 XNC developer grant fund** opens.
+
+And if you work with us — actually contribute to making XNET better — you won't be dropped. Contributors get premine XNC allocation. That's a commitment, not a promise.
+
+---
+
+## Join the conversation
+
+We're opening a Telegram group specifically for the community — developers, validators, people with ideas, people with questions, people who just want to follow along. Everyone is welcome. The only rules: no spam, no unsolicited promotions. Everything else is fair game — technical questions, criticism, wild ideas, feedback on the code.
+
+**Come talk to us:**
+
+→ Telegram: [t.me/xnethq](https://t.me/xnethq)
+→ Twitter / X: [x.com/xnethq](https://x.com/xnethq)
+→ Email: [xnetprotocol@gmail.com](mailto:xnetprotocol@gmail.com)
 
 ---
 
 <div align="center">
 
-**[xnetcoin.org](https://xnetcoin.org) · [t.me/xnethq](https://t.me/xnethq) · [@xnethq](https://x.com/xnethq)**
-
 *Built with Rust & Substrate — from scratch.*
+
+**[xnetcoin.org](https://xnetcoin.org) · [t.me/xnethq](https://t.me/xnethq) · [@xnethq](https://x.com/xnethq)**
 
 </div>
