@@ -85,8 +85,11 @@ We're opening a Telegram group specifically for the community — developers, va
 **Come talk to us:**
 
 → Discord: [discord.gg/mFGzaskFTM](https://discord.gg/mFGzaskFTM) — ideas, discussions, dev chat
+
 → Telegram: [t.me/xnethq](https://t.me/xnethq) — announcements
+
 → Twitter / X: [x.com/xnethq](https://x.com/xnethq)
+
 → Email: [xnetprotocol@gmail.com](mailto:xnetprotocol@gmail.com)
 
 ---
