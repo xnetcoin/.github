@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-xnetcoin.org-orange?style=flat-square)](https://xnetcoin.org)
 [![Telegram](https://img.shields.io/badge/Telegram-xnethq-blue?style=flat-square&logo=telegram)](https://t.me/xnethq)
 [![Twitter](https://img.shields.io/badge/Twitter-xnethq-black?style=flat-square&logo=x)](https://x.com/xnethq)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord)](https://discord.gg/mFGzaskFTM)
 [![Email](https://img.shields.io/badge/Email-xnetprotocol@gmail.com-red?style=flat-square&logo=gmail)](mailto:xnetprotocol@gmail.com)
 
 </div>
@@ -83,7 +84,8 @@ We're opening a Telegram group specifically for the community — developers, va
 
 **Come talk to us:**
 
-→ Telegram: [t.me/xnethq](https://t.me/xnethq)
+→ Discord: [discord.gg/mFGzaskFTM](https://discord.gg/mFGzaskFTM) — ideas, discussions, dev chat
+→ Telegram: [t.me/xnethq](https://t.me/xnethq) — announcements
 → Twitter / X: [x.com/xnethq](https://x.com/xnethq)
 → Email: [xnetprotocol@gmail.com](mailto:xnetprotocol@gmail.com)
 
